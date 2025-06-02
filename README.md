@@ -38,6 +38,9 @@ App sab kuch visually show karta hai (tables, inputs, success messages etc).
 
 🌟 Why This Project is Useful?
 ✅ Real-world use case
+
 ✅ Streamlit GUI makes it beginner-friendly
+
 ✅ Easily expandable (grades, PDF report card, login etc.)
+
 ✅ Acha project hai for Python + GUI + File Handling practice
