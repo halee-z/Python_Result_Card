@@ -18,6 +18,7 @@ Key Features:
 | **CSV File**  | Data save karne ke liye permanent storage |
 
 🧮 How It Works – Flow:
+
 User opens the Streamlit app.
 
 Sidebar mein se ek option choose karta hai:
@@ -37,6 +38,7 @@ Jo kaam user karta hai, woh data file mein automatically save ho jaata hai.
 App sab kuch visually show karta hai (tables, inputs, success messages etc).
 
 🌟 Why This Project is Useful?
+
 ✅ Real-world use case
 
 ✅ Streamlit GUI makes it beginner-friendly
